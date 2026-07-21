@@ -1,0 +1,14 @@
+# Auto-created podcast folders (mp3/wav/txt), regardless of podcast name
+**/MP3/
+**/WAV/
+**/TXT/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.DS_Store
