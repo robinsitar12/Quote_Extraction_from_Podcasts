@@ -1,5 +1,6 @@
 """
 Converts downloaded mp3 podcast episodes into wav files for transcription.
+My code is inspired by the following documentation: "https://pythonbasics.org/convert-mp3-to-wav/"
 """
 
 import os
