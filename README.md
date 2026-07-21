@@ -31,8 +31,8 @@ This tool downloads podcast episodes from an RSS feed, converts them into wav fo
 
 **Installing Python (if you don't have it yet)** 
 
-- Windows: Download from python.org/downloads. During installation, check the box "Add Python to PATH" — this step is easy to miss but essential.
-- Mac: Download from python.org/downloads, or install via Homebrew: brew install python.
+- Windows: Download from [python.org](python.org/downloads). During installation, check the box "Add Python to PATH" — this step is easy to miss but essential.
+- Mac: Download from [python.org](python.org/downloads), or install via Homebrew: brew install python.
 
 
 **Installing FFmpeg**
