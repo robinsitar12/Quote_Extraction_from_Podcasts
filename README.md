@@ -46,7 +46,7 @@ Download or clone this repository to a folder on your computer, e.g. Desktop/pod
 
 **Step 2: Open a terminal and navigate to the project folder**
 
-1. Press the Windows key, type cmd, and press Enter to open Command Prompt.
+1. Press the Windows key, type cmd, and press Enter to open Command Prompt (or alternatively open Terminal on Mac).
 2. Navigate to the project folder using cd:
 
 ```bat
@@ -85,7 +85,7 @@ python main.py
 
 You'll be asked for:
 
-- The podcast RSS feed URL (from Step 4)
+- The podcast RSS feed URL (from step 4)
 - A podcast name (used to name the output folder)
 - How many episodes to process (1–5)
 - Your Gemini API key (hidden while typing, never saved to disk)
