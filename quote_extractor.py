@@ -104,7 +104,7 @@ Return ONLY valid JSON:
 Text:
 {chunk}"""
 
-    resp = client.models.generate_content(model="gemini-3.1-flash-lite", contents=prompt)
+    resp = client.models.generate_content(model=GEMINI_MODEL, contents=prompt)
     try:
         return json.loads(resp.text.strip("```json").strip("```"))
     except json.JSONDecodeError:
